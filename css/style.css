@@ -173,4 +173,9 @@ header,
   }
 }
 
-
+@media (max-width: 768px) {
+  #feature1{
+    color: #808080;
+    font-weight: bold;
+  }
+}
